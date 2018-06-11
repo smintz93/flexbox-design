@@ -1,0 +1,24 @@
+body{
+	background-color: lightblue;
+}
+
+.header{
+	background-color: grey;
+	border: 1px solid black;
+}
+
+.section-one{
+	background-color: grey;
+	border: 1px solid black;
+	margin-top: 5vh;
+	height: 15vh;
+}
+
+.section-two {
+	background-color: grey;
+	border: 1px solid black;
+	margin-top: 5vh;
+	height: 15vh;
+	display: flex;
+}
+
