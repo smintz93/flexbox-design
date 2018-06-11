@@ -30,3 +30,37 @@ body{
 	width: 15vw;
 
 }
+
+.section-three {
+	background-color: grey;
+	border: 1px solid black;
+	margin-top: 5vh;
+	height: 30vh;
+	display: flex;
+	justify-content: space-between;
+}
+
+.aside {
+	background-color: lightblue;
+	border: 1px solid black;
+	height: auto;
+	width: 15vw;
+}
+
+.two {
+	background-color: lightblue;
+	border: 1px solid black;
+	height: auto;
+	width: 50vw;
+}
+
+footer {
+	border: 1px solid black;
+	position: absolute;
+  	right: 0;
+ 	bottom: 0;
+ 	left: 0;
+ 	padding: 1rem;
+  	background-color: grey;
+ 	text-align: center;
+}
