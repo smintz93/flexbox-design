@@ -20,5 +20,13 @@ body{
 	margin-top: 5vh;
 	height: 15vh;
 	display: flex;
+	justify-content: space-between;
 }
 
+.box{
+	background-color: lightblue;
+	border: 1px solid black;
+	height: auto;
+	width: 15vw;
+
+}
